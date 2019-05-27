@@ -16,10 +16,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Optional;
 
-/**
- * Maxim Saffarini -19980925
- * Emil Alic - 19980129
- */
 
 public class Main extends Application {
     RadioButton radio1 = new RadioButton("Namn");
